@@ -47,3 +47,4 @@ Using conda:
 conda activate {venv}
 pytest
 
+You can access the app using this link: https://1c0a3a3a-175a-422b-a399-8caa3ec32a7f-00-3l65jfoqm54xb.kirk.replit.dev
