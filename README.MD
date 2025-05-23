@@ -26,7 +26,7 @@ This project requires the following dependencies:
 Installation
 Build Healthtech-Follow-Up-Reminder-System- from the source and install dependencies:
  * Clone the repository:
-   git clone https://github.com/Essie-chest
+   git clone https://github.com/Essie-chestter
 
  * Navigate to the project directory:
    cd Healthtech-Follow-Up-Reminder-System-
